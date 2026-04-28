@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <!-- Background -->
+  <circle cx="16" cy="16" r="15.5" fill="#0a0a0a"/>
+  
+  <!-- Outer flame -->
+  <ellipse cx="16" cy="13" rx="5.5" ry="7.5" fill="#e8420a"/>
+  <!-- Flame tip -->
+  <ellipse cx="16" cy="10" rx="3" ry="5" fill="#e8420a"/>
+  <!-- Inner bright flame -->
+  <ellipse cx="16" cy="13.5" rx="3" ry="5" fill="#f5c842"/>
+  <!-- Core white-hot -->
+  <ellipse cx="16" cy="14.5" rx="1.5" ry="2.8" fill="#fff5e0"/>
+  
+  <!-- Coal piece -->
+  <rect x="8.5" y="21" width="15" height="6" rx="2" fill="#28231e"/>
+  <!-- Coal highlight -->
+  <rect x="10" y="22.5" width="7" height="2" rx="1" fill="#4a3f35"/>
+  <!-- Coal glow from flame -->
+  <rect x="8.5" y="21" width="15" height="2" rx="1.5" fill="#e8420a" opacity="0.4"/>
+</svg>
